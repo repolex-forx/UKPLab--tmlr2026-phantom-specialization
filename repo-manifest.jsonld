@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/tmlr2026-phantom-specialization/commit/1db9d331b02a7bc30fd9d5cfd3bf446f28a3d58f",
       "git:hexsha": "1db9d331b02a7bc30fd9d5cfd3bf446f28a3d58f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
